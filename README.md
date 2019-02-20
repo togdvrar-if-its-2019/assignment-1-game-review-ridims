@@ -4,14 +4,14 @@
 #### Topics on Game Development, VR/AR
 #### Ari Mahardika Ahmad Nafis (05111850010027)
 
-![MH Cover](images/mh_cover.jpg)
+![MH Cover](Images/mh_cover.jpg)
 
 ## About Monster Hunter
 The Monster Hunter (モンスターハンター Monsutā Hantā) franchise is a series of fantasy-themed action role-playing video games that started with the game Monster Hunter for PlayStation 2, released in 2004. Titles have been released across a variety of platforms, including personal computer, home console, portable consoles, and mobile devices. The series is developed and published by Capcom.
 
 ## Monster Hunter Freedom Unite
 
-![MHFU Cover](images/mhfu_cover.jpg)
+![MHFU Cover](Images/mhfu_cover.jpg)
 
 Monster Hunter Freedom Unite is a 2008 video game in the Monster Hunter franchise for PlayStation Portable and iOS. It is an expansion of the original Monster Hunter Freedom 2 and was released on March 27, 2008 in Japan as Monster Hunter Portable 2nd G.
 
@@ -23,7 +23,7 @@ Monster Hunter Freedom Unite is a 2008 video game in the Monster Hunter franchis
 * The boundaries is when the loading the game and start playing the game.
 * Boundaries is physical in game where the area that can be used are shown in maps
 
-![maps](images/map_dessert.gif)
+![maps](Images/map_dessert.gif)
 
 ### Rule of Interaction
 [//]: # (Between player with player or player with artifact)
