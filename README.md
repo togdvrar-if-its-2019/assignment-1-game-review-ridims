@@ -13,7 +13,7 @@ The Monster Hunter (モンスターハンター Monsutā Hantā) franchise is a 
 
 ![MHFU Cover](images/mhfu_cover.jpg)
 
-Monster Hunter Freedom Unite is a 
+Monster Hunter Freedom Unite is a 2008 video game in the Monster Hunter franchise for PlayStation Portable and iOS. It is an expansion of the original Monster Hunter Freedom 2 and was released on March 27, 2008 in Japan as Monster Hunter Portable 2nd G.
 
 ### Game Space
 [//]: # (Focus from real world to game world)
@@ -45,7 +45,7 @@ List of artifacts :
 * Usable items (healing potions, cooked meat, etc.)
 * Tools (pick axe, bug net, fishing pole, whetstone, etc).
 * Money.
-* NPC (Peddler, Weapon shop keeper, Item shop keeper, Normal villager, Quest giver, trainer)
+* NPC (Peddler, Weapon shop keeper, Item shop keeper, Normal villager, Quest giver, trainer).
 
 ## Gameplay 
 [//]: # (How the player interact with the game)
@@ -69,7 +69,6 @@ List of artifacts :
 * Eleven weapon classess.
 * Different armor combination means different skills.
 * There are no skill trees, but your weapon types of choice serve a similar function
-* Attack p
 
 ## Game Mechanics
 * Monster spawn.
