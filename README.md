@@ -17,6 +17,8 @@ Monster Hunter Freedom Unite is a 2008 video game in the Monster Hunter franchis
 
 ### Game Space
 [//]: # (Focus from real world to game world)
+* Village where player can farm, buy / upgrade weapons and armors, buy items, take quest.
+* Quest world where player complete the required objectives and could collect material from that "world".
 
 ### Boundaries
 [//]: # (Can be physical or psychological)
