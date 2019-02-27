@@ -81,17 +81,17 @@ List of artifacts :
 
 Weapon Name | Weapon Images
 -----------| ------------
-Sword and Shield | ![Image of sns](images/weap_sns.png) ![Image of char with sns](images/char_sns.png)
-Dual Swords | ![Image of ds](images/weap_ds.png) ![Image of char with ds](images/char_ds.png)
-Greatsword | ![Image of gs](images/weap_gs.png) ![Image of char with gs](images/char_gs.png)
-Longsword | ![Image of ls](images/weap_ls.png) ![Image of char with ls](images/char_ls.png)
-Hammer | ![Image of hammer](images/weap_hammer.png) ![Image of char with hammer](images/char_hammer.png)
-Hunting Horn | ![Image of hh](images/weap_hh.png) ![Image of char with hh](images/char_hh.png)
-Lance | ![Image of lance](images/weap_lance.png) ![Image of char with lance](images/char_lance.png)
-Gunlance | ![Image of gl](images/weap_gl.png) ![Image of char with gl](images/char_gl.png)
-Light Bowgun | ![Image of lbg](images/weap_lbg.png) ![Image of char with lbg](images/char_lbg.png)
-Heavy Bowgun | ![Image of hbg](images/weap_hbg.png) ![Image of char with hbg](images/char_hbg.png)
-Bow | ![Image of bow](images/weap_bow.png) ![Image of char with bow](images/char_bow.png)
+Sword and Shield | ![Image of sns](Images/weap_sns.png) ![Image of char with sns](Images/char_sns.png)
+Dual Swords | ![Image of ds](Images/weap_ds.png) ![Image of char with ds](Images/char_ds.png)
+Greatsword | ![Image of gs](Images/weap_gs.png) ![Image of char with gs](Images/char_gs.png)
+Longsword | ![Image of ls](Images/weap_ls.png) ![Image of char with ls](Images/char_ls.png)
+Hammer | ![Image of hammer](Images/weap_hammer.png) ![Image of char with hammer](Images/char_hammer.png)
+Hunting Horn | ![Image of hh](Images/weap_hh.png) ![Image of char with hh](Images/char_hh.png)
+Lance | ![Image of lance](Images/weap_lance.png) ![Image of char with lance](Images/char_lance.png)
+Gunlance | ![Image of gl](Images/weap_gl.png) ![Image of char with gl](Images/char_gl.png)
+Light Bowgun | ![Image of lbg](Images/weap_lbg.png) ![Image of char with lbg](Images/char_lbg.png)
+Heavy Bowgun | ![Image of hbg](Images/weap_hbg.png) ![Image of char with hbg](Images/char_hbg.png)
+Bow | ![Image of bow](Images/weap_bow.png) ![Image of char with bow](Images/char_bow.png)
 
 
 * Different armor combination means different skills.
