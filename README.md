@@ -47,6 +47,13 @@ List of artifacts :
 * Money.
 * NPC (Peddler, Weapon shop keeper, Item shop keeper, Normal villager, Quest giver, trainer).
 
+### Goal
+* Each person will want to play for different reasons
+    * Acquiring all Weapons and Armors.
+    * Defeat end game-exclusive monster.
+    * Achievement for complete all quest.
+    * etc.
+
 ## Gameplay 
 [//]: # (How the player interact with the game)
 
@@ -58,8 +65,12 @@ List of artifacts :
 * You are a hunter that tasked to replace a retired hunter in Mofumofu Village.
 
 ### Objectives
-* To hunt monster
-* Each person will want to play for different reasons
+* Kill a monster.
+* Capture a monster.
+* Deliver a specific item (herbs, mineral, eggs, fish) with specified numbers.
+* Survive a specific amount of time.
+* Defend a fotress.
+* etc.
 
 ### Challenges
 * Steep learning curves.
@@ -67,6 +78,22 @@ List of artifacts :
 * Strategy for each monster.
 * Monster drop is random but based on well known percentages, and you can increase your odds at a rare drop by damaging certain parts of the monster (breaking horns, cutting off the tail, etc.).
 * Eleven weapon classess.
+
+Weapon Name | Weapon Images
+-----------| ------------
+Sword and Shield | ![Image of sns](images/weap_sns.png) ![Image of char with sns](images/char_sns.png)
+Dual Swords | ![Image of ds](images/weap_ds.png) ![Image of char with ds](images/char_ds.png)
+Greatsword | ![Image of gs](images/weap_gs.png) ![Image of char with gs](images/char_gs.png)
+Longsword | ![Image of ls](images/weap_ls.png) ![Image of char with ls](images/char_ls.png)
+Hammer | ![Image of hammer](images/weap_hammer.png) ![Image of char with hammer](images/char_hammer.png)
+Hunting Horn | ![Image of hh](images/weap_hh.png) ![Image of char with hh](images/char_hh.png)
+Lance | ![Image of lance](images/weap_lance.png) ![Image of char with lance](images/char_lance.png)
+Gunlance | ![Image of gl](images/weap_gl.png) ![Image of char with gl](images/char_gl.png)
+Light Bowgun | ![Image of lbg](images/weap_lbg.png) ![Image of char with lbg](images/char_lbg.png)
+Heavy Bowgun | ![Image of hbg](images/weap_hbg.png) ![Image of char with hbg](images/char_hbg.png)
+Bow | ![Image of bow](images/weap_bow.png) ![Image of char with bow](images/char_bow.png)
+
+
 * Different armor combination means different skills.
 * There are no skill trees, but your weapon types of choice serve a similar function
 
